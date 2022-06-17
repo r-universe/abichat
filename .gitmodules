@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "evabic"]
+	path = evabic
+	url = https://github.com/abichat/evabic
+	shallow = true
+	registered = true
+[submodule "yatah"]
+	path = yatah
+	url = https://github.com/abichat/yatah
+	shallow = true
+	registered = true

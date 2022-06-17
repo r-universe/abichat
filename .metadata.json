@@ -1,0 +1,10 @@
+[
+  {
+    "package": "evabic",
+    "oncran": true
+  },
+  {
+    "package": "yatah",
+    "oncran": true
+  }
+]
