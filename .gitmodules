@@ -5,6 +5,9 @@
 [submodule "evabic"]
 	path = evabic
 	url = https://github.com/abichat/evabic
+[submodule "scimo"]
+	path = scimo
+	url = https://github.com/abichat/scimo
 [submodule "yatah"]
 	path = yatah
 	url = https://github.com/abichat/yatah
